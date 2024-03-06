@@ -37,7 +37,7 @@ function index() {
 
                 </section>
 
-                <section className='md:w-8/12 md:m-auto md:flex'>
+                <section className='md:w-8/12 md:m-auto md:flex md:gap-10 md:mt-14'>
 
                     <article className='h-[200px] flex flex-col justify-around my-8 md:w-[350px] md:h-[200px]'>
                         <i className='text-[36.36px] text-black'><HiUserGroup /></i>
