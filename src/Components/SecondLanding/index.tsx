@@ -8,7 +8,6 @@ function index() {
                 <h1 className='text-[24px] font-bold md:text-[48px]'>A plataforma Uber que você conhece, reinventada para empresas</h1>
                 <p>Uma plataforma simples para empresas de todos os portes administrarem suas viagens e refeições globais e entregas locais.</p>
                 <button className='w-[110px] h-[38px] bg-black rounded-lg text-white'>Começar</button>
-
             </section>
 
         </div>
