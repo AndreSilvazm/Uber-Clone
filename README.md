@@ -13,13 +13,13 @@
 
   
   <li>
-    <img src='https://i.ibb.co/rv2jbq8/uber-Responsivo1.png'>
+    <img src='https://ibb.co/dk0KfGP'>
     <span>Responsiva</span>
   </li>
 
   
   <li>
-    <img src='https://i.ibb.co/rv2jbq8/uber-Responsivo1.png'>
+    <img src='https://ibb.co/8YCJ31k'>
     <span>Responsiva</span>
   </li>
 </ul>
