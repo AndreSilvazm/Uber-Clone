@@ -12,14 +12,4 @@
   </li>
 
   
-  <li>
-    <img src='https://ibb.co/dk0KfGP'>
-    <span>Responsiva</span>
-  </li>
-
-  
-  <li>
-    <img src='https://ibb.co/8YCJ31k'>
-    <span>Responsiva</span>
-  </li>
 </ul>
